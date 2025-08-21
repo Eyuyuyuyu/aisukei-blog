@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: true
+---
+1. 确保所有的 npm run lint 和 npm run build 通过
+2. 每次改动不要改不相关的文件
