@@ -1,6 +1,6 @@
 ---
 author: "Aisukei"
-pubDatetime: 2025-08-21T13:42:00.000Z
+pubDatetime: 2025-08-21T05:00:00.000Z
 title: "我用 Cursor 在一天内从零打造了一款实时匿名投票神器"
 featured: true  # 是否在首页置顶
 draft: false     # 是否为草稿
