@@ -17,7 +17,7 @@ html[data-theme="dark"] {
   --foreground: #eaedf3;
   --accent: #7EE787;
   --muted: #343f60;
-  --border: #7EE787;
+  --border: #212737;
 }
 
 @theme inline {
